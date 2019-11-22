@@ -1,0 +1,1 @@
+# msbuild-sonar-scanner
